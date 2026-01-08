@@ -1,4 +1,4 @@
-
+//App.js
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { Line } from 'react-chartjs-2';
 import {
